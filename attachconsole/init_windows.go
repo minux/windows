@@ -1,3 +1,7 @@
+// Copyright 2015 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
 // Package attachconsole is meant to be used as a side-effect only
 // import. It attaches the calling process to its parent's console.
 // It is most useful for an application built with
